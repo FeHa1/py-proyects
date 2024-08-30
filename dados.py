@@ -20,7 +20,7 @@ while True:
     else: 
         print('Numero no valido, intente otra vez.')
 
-max_score = 3
+max_score = 100
 player_score = [0 for _ in range(players)] # recorre un '_' porque no necesitamos un nombre de varuable para recorrerla
 
 while max(player_score) < max_score:
