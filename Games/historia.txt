@@ -1,0 +1,5 @@
+En la <adjective1> tierra de <place>, un <animal> se sentia <emotion>. El <animal> habia perdido su <object>.
+
+De repente, aparecio <character>. "Te ayudare a encontrar tu <object>", dijo.
+
+Juntos, viajaron a traves de <terrain> y enfrentaron el clima <weather_condition>. Finalmente, encontraron la <object> en un <place2>. El <animal> estaba tan <emotion2> y agradecio a <character>. Vivieron <adverb> felices para siempre.
